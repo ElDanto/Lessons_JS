@@ -60,4 +60,4 @@ function iteration(o) {
 
     }
 }
-iteration(obj1)
+iteration(obj1);
