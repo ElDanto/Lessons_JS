@@ -2,6 +2,7 @@
 //var newVar = 50;
 //jQuery(function($) {
 
+
 	/*var el = document.getElementById('stuck_container');
 
 	if($.contains(document.body, el)) {
